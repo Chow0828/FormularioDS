@@ -173,24 +173,24 @@ namespace Formulario
             string facebook = textBox12.Text;
             string twitter = textBox13.Text;
 
-            textBox9.Text = "Andrey Moura";
-            textBox10.Text = "007";
+            textBox9.Text = "Cristhofer Chow";
+            textBox10.Text = "013";
             // this.data.Text = "03/08/2000";
-            textBox8.Text = "1327504800";
-            textBox7.Text = "537961048";
-            textBox6.Text = "981834795";
+            textBox8.Text = "8736526823";
+            textBox7.Text = "55178987653";
+            textBox6.Text = "13997702868";
 
             radioButton4.Checked = true;
 
-            textBox2.Text = "Rua Bernadino Silva";
-            textBox3.Text = "879";
-            textBox4.Text = "Liberdade";
-            textBox5.Text = "São Paulo";
-            textBox1.Text = "11999666";
+            textBox2.Text = "Rua Dr. Osvaldo Marçal";
+            textBox3.Text = "326";
+            textBox4.Text = "Ruinas";
+            textBox5.Text = "Peruibe";
+            textBox1.Text = "11890666";
 
-            textBox11.Text = "andreygouveia.05@gmail.com";
-            textBox12.Text = "andreymouragouvea";
-            textBox13.Text = "@andreymoura5";
+            textBox11.Text = "cristhoferchow9@gmail.com";
+            textBox12.Text = "cristhofer";
+            textBox13.Text = "@cristhofer";
             checkBox1.Checked = true;
             checkBox2.Checked = true;
             checkBox3.Checked = true;
